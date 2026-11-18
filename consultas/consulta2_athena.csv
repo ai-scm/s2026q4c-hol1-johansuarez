@@ -1,0 +1,4 @@
+"user_id","name","country","city","role","department","education","age","gender","marital_status","experience_years","skills","languages","hobbies","salary","email","phone","partition_0"
+"61","Melissa Hale","Senegal","Brianmouth","Engineer","Finance","PhD","58","Male","Widowed","16","SQL, Java, Python, C++","English","Music, Cooking","55180.25","brennanbrittany@example.com","001-959-467-5621","users_json"
+"64","Cristian Summers","Belize","West Aliciachester","Manager","Operations","PhD","43","Male","Married","15","Python, SQL","English","Traveling","39675.05","sarahwebb@example.org","749-377-1457x229","users_json"
+"25","Travis Krueger","Sudan","Rochaland","Technician","IT","Master","53","Other","Married","5","Java, Data Analysis","English","Cooking","90950.5","watsonkyle@example.net","+1-296-294-1194","users_json"
